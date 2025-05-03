@@ -38,3 +38,4 @@ Key observations:
 MIT License
 # saudi-stock-arima
 ARIMA Time Series Forecasting for Saudi Stock Market
+![Model Result](result.png)
